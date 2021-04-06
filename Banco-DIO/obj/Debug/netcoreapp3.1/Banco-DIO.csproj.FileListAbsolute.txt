@@ -1,0 +1,13 @@
+C:\Projetos\Banco-DIO\Banco-DIO\bin\Debug\netcoreapp3.1\Banco-DIO.exe
+C:\Projetos\Banco-DIO\Banco-DIO\bin\Debug\netcoreapp3.1\Banco-DIO.deps.json
+C:\Projetos\Banco-DIO\Banco-DIO\bin\Debug\netcoreapp3.1\Banco-DIO.runtimeconfig.json
+C:\Projetos\Banco-DIO\Banco-DIO\bin\Debug\netcoreapp3.1\Banco-DIO.runtimeconfig.dev.json
+C:\Projetos\Banco-DIO\Banco-DIO\bin\Debug\netcoreapp3.1\Banco-DIO.dll
+C:\Projetos\Banco-DIO\Banco-DIO\bin\Debug\netcoreapp3.1\Banco-DIO.pdb
+C:\Projetos\Banco-DIO\Banco-DIO\obj\Debug\netcoreapp3.1\Banco-DIO.csprojAssemblyReference.cache
+C:\Projetos\Banco-DIO\Banco-DIO\obj\Debug\netcoreapp3.1\Banco-DIO.AssemblyInfoInputs.cache
+C:\Projetos\Banco-DIO\Banco-DIO\obj\Debug\netcoreapp3.1\Banco-DIO.AssemblyInfo.cs
+C:\Projetos\Banco-DIO\Banco-DIO\obj\Debug\netcoreapp3.1\Banco-DIO.csproj.CoreCompileInputs.cache
+C:\Projetos\Banco-DIO\Banco-DIO\obj\Debug\netcoreapp3.1\Banco-DIO.dll
+C:\Projetos\Banco-DIO\Banco-DIO\obj\Debug\netcoreapp3.1\Banco-DIO.pdb
+C:\Projetos\Banco-DIO\Banco-DIO\obj\Debug\netcoreapp3.1\Banco-DIO.genruntimeconfig.cache
